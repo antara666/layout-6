@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+header{
+    background-color: rgb(145, 28, 255);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: rgba(149, 36, 255, 0.812);
+    color: aliceblue;
+    text-align: center;
+    height: 600px;
+    width: 30%;
+    float: left;
+}
+.right{
+    background-color: rgba(145, 28, 255, 0.796);
+    color: aliceblue;
+    height: 600px;
+    width: 70%;
+    float: right;
+}
+.article_one{
+    background-color: rgba(182, 104, 255, 0.993);
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+.article_two{
+    background-color: rgba(159, 77, 236, 0.851);
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+.article_three{
+    background-color: rgba(135, 56, 209, 0.81);
+    color: aliceblue;
+    text-align: center;
+    height: 200px;
+}
+footer{
+    background-color: rgb(145, 28, 255);
+    color: aliceblue;
+    text-align: center;
+    height: 100px;
+}
